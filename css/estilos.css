@@ -5,3 +5,13 @@ body{
     margin-top: 25px;
     margin-left: 15px;
 }
+#ajaxContainer{
+	background-color: #fcf5f5;
+    border: 1px solid #898686;
+    border-radius: 7px;
+    margin-top: 70px;
+}
+#ajaxContainer li{
+	list-style: none;
+	margin: 7px 0px;
+}
